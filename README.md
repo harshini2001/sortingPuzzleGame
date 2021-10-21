@@ -1,1 +1,3 @@
-# sortingPuzzleGame
+# Sorting Puzzle Game Using A* algorithm
+
+      
